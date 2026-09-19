@@ -1,0 +1,8 @@
+[tools]
+bun = "1.4.2"
+
+[bootstrap.plugins]
+bun = "./"
+
+[bootstrap.packages]
+"bun:cline" = "3.0.61"
